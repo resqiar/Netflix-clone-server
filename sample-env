@@ -1,0 +1,4 @@
+STRIPE_KEY= your stripe secret key here
+LOCAL_MONGODB_CON= your local mongodb connection url
+MONGODB_CON= your live/production mongodb connection url
+
